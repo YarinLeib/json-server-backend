@@ -3,14 +3,14 @@
     {
       "id": 0,
       "companyName": "TechCorp",
-      "jobTitle": "Software Engineer",
+      "jobTitle": "Software Engineer ",
       "jobDescription": "Develop and maintain software applications.",
       "jobRequirements": "Proficient in Java, Python, and SQL.",
       "salaryRange": "€50,000 - €70,000",
       "jobLocation": "Remote (Europe)",
       "jobType": "Full-time",
       "jobPostedDate": "2025-05-01",
-      "jobExpiryDate": "2025-06-01",
+      "jobExpiryDate": "2026-06-01",
       "jobSkills": [
         "Java",
         "Python",
@@ -32,8 +32,8 @@
       "salaryRange": "€55,000 - €75,000",
       "jobLocation": "Berlin, Germany",
       "jobType": "Full-time",
-      "jobPostedDate": "2025-05-01",
-      "jobExpiryDate": "2025-06-01",
+      "jobPostedDate": "2025-05-22",
+      "jobExpiryDate": "2025-07-03",
       "jobSkills": [
         "React",
         "TypeScript",
@@ -700,6 +700,26 @@
         "Professional Development"
       ],
       "companyLogo": "https://logo.clearbit.com/pixelperfect.com"
+    },
+    {
+      "id": 1746883101238,
+      "companyName": "asdasd",
+      "jobTitle": "asdasd",
+      "jobDescription": "sdasd",
+      "jobRequirements": "asda",
+      "jobLocation": "dasdas",
+      "salaryRange": "asdas",
+      "jobType": "Full-time",
+      "jobSkills": [
+        "adad"
+      ],
+      "jobBenefits": [
+        "asdad"
+      ],
+      "companyLogo": "",
+      "jobPostedDate": "2025-05-10",
+      "jobExpiryDate": "2025-06-09"
     }
-  ]
+  ],
+  "jobApplications": []
 }
