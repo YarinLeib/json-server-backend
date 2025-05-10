@@ -719,6 +719,25 @@
       "companyLogo": "",
       "jobPostedDate": "2025-05-10",
       "jobExpiryDate": "2025-06-09"
+    },
+    {
+      "id": 1746885018497,
+      "companyName": "asd",
+      "jobTitle": "asd",
+      "jobDescription": "asd",
+      "jobRequirements": "asd",
+      "jobLocation": "asd",
+      "salaryRange": "ad",
+      "jobType": "Full-time",
+      "jobSkills": [
+        "asd"
+      ],
+      "jobBenefits": [
+        "asd"
+      ],
+      "companyLogo": "",
+      "jobPostedDate": "2025-05-10",
+      "jobExpiryDate": "2025-06-09"
     }
   ],
   "jobApplications": []
